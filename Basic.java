@@ -1,4 +1,3 @@
-package com.java;
 import java.util.Scanner;
 
 public class Basic{

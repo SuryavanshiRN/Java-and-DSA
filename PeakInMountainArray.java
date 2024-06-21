@@ -1,4 +1,4 @@
-package com.java;
+// package com.java;
 
 public class PeakInMountainArray {
     public static void main(String[] args) {

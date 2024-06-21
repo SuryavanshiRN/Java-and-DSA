@@ -1,5 +1,3 @@
-package com.java;
-
 import java.util.Scanner;
 
 public class Subtract_sum_product {

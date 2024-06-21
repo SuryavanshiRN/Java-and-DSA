@@ -1,4 +1,4 @@
-package com.java;
+// package com.java;
 import java.util.Arrays;
 public class ShuffleTheArray {
     public static void main(String[] args) {

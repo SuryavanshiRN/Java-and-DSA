@@ -1,4 +1,3 @@
-package com.java;
 import java.util.*;
 public class ArrayFromPermutation {
     public static void main(String[] args) {

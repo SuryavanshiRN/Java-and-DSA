@@ -1,4 +1,4 @@
-package com.java;
+// package com.java;
 import java.util.Scanner;
 public class Conditionals {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.java;
+// package com.java;
 
 public class Reverse {
     public static void main(String[] args) {
